@@ -30,4 +30,4 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - GitHub: [github.com/Goddie12](https://github.com/Goddie12)
 
 
-
+                THE LINK TO MY PORTFOLIO: https://goddie12.github.io/Goddie12-github.io/
